@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
- <h1 align="center">Hi I 'm Mohamed 👋</h1>
+ <h1 align="center">Hi I'm Mohamed 👋</h1>
 
 <h2 align='center'>Completed <a href='https://Satr.codes'>Satr</a> courses</h2> 
   
