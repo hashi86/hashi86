@@ -23,4 +23,6 @@ Here are some ideas to get you started:
   
   <div align='center'>
   <a target='_blank' href='https://satr.codes/courses/CATspNvVjT/view'><img align='center' alt='HTML' src='https://assets.safcsp.cloud/badges/badges-54.png' width='90' height='90'/></a> 
+ 
+ <a target='_blank' href='https://satr.codes/courses/CATspNvVjT/view'><img align='center' alt='CSS' src='https://assets.safcsp.cloud/badges/badges-53.png' width='90' height='90'/></a> 
   </div>
